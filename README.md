@@ -1,2 +1,2 @@
 # nano-codium
-eay trig ratio finder
+esay trig ratio finder
